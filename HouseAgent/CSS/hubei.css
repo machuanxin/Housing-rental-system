@@ -1,0 +1,51 @@
+﻿a:hover {
+    cursor: pointer;
+    text-decoration:none;
+   
+}
+a {
+    color: black;
+}
+a:hover{
+    color:#428bca;
+}
+#current_city{
+    margin-left:20px;
+}
+
+#img1 {
+    width: 50px;
+    height: 50px;
+}
+
+#img2 {
+    width: 30px;
+    height: 30px;
+}
+
+.control-label {
+    color: red;
+    font-size: 24px;
+    margin-left: 80px;
+}
+
+#house_info {
+    text-align: center;
+}
+
+#footerID {
+    margin-top: 10px;
+}
+
+
+#map_house {
+    cursor: pointer;
+    float: right;
+    margin-right: 20%;
+    font-size: 20px;
+}
+
+#wh_content, #xy_content, #yc_content, #hs_content {
+    display :none;
+}
+

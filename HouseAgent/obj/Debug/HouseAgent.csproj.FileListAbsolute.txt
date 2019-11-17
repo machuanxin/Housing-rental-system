@@ -1,0 +1,356 @@
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\HouseAgent.dll.config
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\HouseAgent.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\HouseAgent.pdb
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CopyComplete
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\obj\Debug\HouseAgent.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\obj\Debug\HouseAgent.pdb
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\Newtonsoft.Json.pdb
+C:\Users\ASUS\Desktop\HouseAgent\HouseAgent\bin\Newtonsoft.Json.xml
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\HouseAgent.dll.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\HouseAgent.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\HouseAgent.pdb
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\csc.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\csc.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\csc.rsp
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\csi.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\csi.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\csi.rsp
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.AppContext.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Console.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.IO.Compression.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.IO.Pipes.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.Claims.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Threading.Thread.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.ValueTuple.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\vbc.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\vbc.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\vbc.rsp
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\Newtonsoft.Json.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csprojAssemblyReference.cache
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CoreCompileInputs.cache
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CopyComplete
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\obj\Debug\HouseAgent.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\HouseAgent\obj\Debug\HouseAgent.pdb
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\HouseAgent.dll.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\HouseAgent.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\HouseAgent.pdb
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\csc.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\csc.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\csc.rsp
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\csi.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\csi.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\csi.rsp
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.AppContext.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Console.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.IO.Compression.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.IO.Pipes.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.Claims.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Threading.Thread.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.ValueTuple.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\vbc.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\vbc.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\vbc.rsp
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\Newtonsoft.Json.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csprojAssemblyReference.cache
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CoreCompileInputs.cache
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CopyComplete
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\obj\Debug\HouseAgent.dll
+C:\Users\machu\Desktop\软件\HouseAgent\HouseAgent\obj\Debug\HouseAgent.pdb
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\HouseAgent.dll.config
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\HouseAgent.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\HouseAgent.pdb
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\csc.exe
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\csc.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\csc.rsp
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\csi.exe
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\csi.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\csi.rsp
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.AppContext.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Console.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.IO.Compression.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.IO.Pipes.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.Claims.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Threading.Thread.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.ValueTuple.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\vbc.exe
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\vbc.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\vbc.rsp
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\Newtonsoft.Json.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csprojAssemblyReference.cache
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CoreCompileInputs.cache
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CopyComplete
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\obj\Debug\HouseAgent.dll
+C:\Users\machu\Desktop\湖北省租房信息系统\HouseAgent\HouseAgent\obj\Debug\HouseAgent.pdb
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\HouseAgent.dll.config
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\HouseAgent.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\HouseAgent.pdb
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\csc.exe
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\csc.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\csc.rsp
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\csi.exe
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\csi.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\csi.rsp
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.AppContext.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Console.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.IO.Compression.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.IO.Pipes.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.Claims.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Threading.Thread.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.ValueTuple.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\vbc.exe
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\vbc.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\vbc.rsp
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\Newtonsoft.Json.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csprojAssemblyReference.cache
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CoreCompileInputs.cache
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CopyComplete
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\obj\Debug\HouseAgent.dll
+C:\Users\machu\Desktop\湖北省租房信息系统 2.0\HouseAgent\HouseAgent\obj\Debug\HouseAgent.pdb
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\HouseAgent.dll.config
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\HouseAgent.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\HouseAgent.pdb
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\csc.exe
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\csc.exe.config
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\csc.rsp
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\csi.exe
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\csi.exe.config
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\csi.rsp
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.AppContext.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Console.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.IO.Compression.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.IO.Pipes.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.Claims.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Threading.Thread.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.ValueTuple.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\vbc.exe
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\vbc.exe.config
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\vbc.rsp
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\Newtonsoft.Json.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csprojAssemblyReference.cache
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CoreCompileInputs.cache
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\obj\Debug\HouseAgent.csproj.CopyComplete
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\obj\Debug\HouseAgent.dll
+C:\Users\machu\Desktop\HRS\HouseAgent\HouseAgent\obj\Debug\HouseAgent.pdb
