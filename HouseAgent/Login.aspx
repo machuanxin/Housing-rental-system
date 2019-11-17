@@ -57,7 +57,7 @@
        </div>
    </div><br/><br/>
    <div id="footerID" class="footer  text-primary" style="position:fixed;bottom:10px;left:40%;">
-         <p>版权所有&copy; Copyright 　　中国·武汉    武汉大学  测绘学院</p>
+         <p>版权所有&copy; Copyright 　　中国·武汉    武汉大学测绘学院</p>
    </div>
 </body>
 </html>
